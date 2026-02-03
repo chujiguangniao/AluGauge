@@ -1,2 +1,2 @@
-# AluGauge
-We expect AluGauge to significantly advance both the research and application of data-driven algorithms in aluminum strip cold rolling manufacturing
+# AluGauge:Dataset for Aluminum Strip Cold Rolling
+This is the data of the paper: AluGauge: A Comprehensive Dataset and Benchmark for Aluminum Strip Cold Rolling Process. The dataset D4ASCR is available at - [https://zenodo.org/records/10685675](https://zenodo.org/records/10685675).
